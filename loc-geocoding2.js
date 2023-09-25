@@ -13,7 +13,6 @@ const client = new LocationClient({
 
 const input = {
   IndexName: "loc-here",
-//  Text: "Gojek Pasaraya",
   Text: "Monumen nasional",
   MaxResults: 2,
   BiasPosition: [106.769470,-6.301150]
