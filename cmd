@@ -1,0 +1,1 @@
+GET /places/v0/indexes/IndexName/places/PlaceId?key=KeyValue

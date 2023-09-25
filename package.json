@@ -1,0 +1,16 @@
+{
+  "name": "als-apikey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-location": "^3.418.0",
+    "@aws/amazon-location-utilities-auth-helper": "^1.0.2"
+  }
+}
